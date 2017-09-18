@@ -1,0 +1,5 @@
+# Git ignore list
+
+# Ignoring anything in ./bin ./build
+build/
+bin/
